@@ -7,6 +7,7 @@
 진짜 실무에서 사용하는 ChatGPT 사용법들을 눌러담았습니다.
 
 ![chatgpt책](https://user-images.githubusercontent.com/73151616/224004101-59bd9ac2-4670-4527-b363-017a3371b60e.jpg)
+![chatgpt책](https://github.com/chatgpt-kr/chatgpt-tutorial-second-edition/assets/79401093/2b1e37ce-f6a6-4f12-9542-c092993be001)
 
 문의사항 (Inquiries)
 ---
