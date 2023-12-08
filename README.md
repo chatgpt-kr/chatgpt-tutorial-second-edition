@@ -5,7 +5,9 @@
 엑셀 활용법부터 블로그 자동화, 유튜브 콘텐츠 생성, 미드저니와 ChatGPT API 사용법까지  
 
 진짜 실무에서 사용하는 ChatGPT 사용법들을 눌러담았습니다.
+
 ![chatgpt책](https://github.com/chatgpt-kr/chatgpt-tutorial-second-edition/assets/79401093/041834cf-3207-48a3-82f5-0b166f5b0183)
+
 문의사항 (Inquiries)
 ---
 궁금한 사항이 있으면 이슈 또는 이메일 부탁드립니다.
