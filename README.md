@@ -1,4 +1,5 @@
 **4장, 9장의 구글스프레드시트와 엑셀 파일 다운로드** : [Download](https://github.com/wikibook/chatgpt-recipes/archive/refs/heads/main.zip)  
+**4장 구글 스프레드 시트 링크**: https://bit.ly/3vCBsWM
 # 챗GPT 업데이트 내용 정리
 [2024.06.11]
 * Part 2 P.35~P.43 에서 소개하는 챗GPT 플러스 회원에게 지원하는 기능들이 무료 회원에게도 서비스를 시작하였습니다.
