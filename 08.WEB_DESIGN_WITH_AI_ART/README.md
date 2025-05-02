@@ -1,34 +1,44 @@
 # 8. ChatGPT와 AI Art로 시작하는 웹 디자인
 
-## 미드저니(Midjourney) 소개
-Midjorney 사이트 링크
+## ChatGPT로 이미지 생성하기기
 ```
-https://midjourney.com/
-```
-## 미드저니 파라미터
-Midjorney 파라미터 정리 링크
-```
-https://docs.midjourney.com/docs/parameter-list
-```
-## 미드저니를 통해 이미지 생성하기
-```
-A cute artificial intelligence robot, white body, wearing a cap hat, black background, smiling eyes. Realistic.
-```
-## 웹 사이트 디자인하기
-```
-Beautiful website with big and small donuts on a yellow background
+귀여운 인공지능 로봇, 하얀색 몸체, 캡 모자를 쓰고 있으며, 눈은 웃고 있고, RPG 게임 그림체입니다.
 ```
 ```
-Beautiful website with big and small donuts on a yellow background, ui, ux, ui/ux --ar 3:2 --v 4 --q 2
+나는 일본 여행 유튜브를 준비 중이야. 벚꽃과 오사카성처럼 일본풍의 성을 결합하여 유튜브에 사용할 수 있는 유튜브 로고를 하나 디자인해줘. 트렌디했으면 좋겠고 여행가방도 나와서 신나게 여행하는 느낌도 나오면 좋을 것 같고. 배경은 푸른 하늘이 좋겠다. 유튜브 재생 버튼도 나오면 좋을 것 같은데 퀄리티에 신경을 써줘.
+```
+```
+음 너무 로고가 너무 복잡하고 과한 것 같아. 그러면 벚꽃 나무와 여행 가방만 그려줘
+```
+## ChatGPT를 이용해 웹 사이트 디자인하기
+```
+컬러풀한 배경에 사실적인 크고 작은 도넛이 있는 아름다운 웹 사이트 디자인을 그려줘. 도넛 가게의 이름이 적혀져 있어. 그리고 도넛 가게에 대한 짧은 설명, 페이지 이동을 위한 버튼들도 있어. 자, 이미지 생성해봐.
+```
+```
+조금 더 UI에 신경써주라 다시 생성해줘
 ```
 ## ChatGPT로 홍보 문구 만들기
 ```
-I made a website selling donuts. Write text that would be on the front page of your website, such as hero titles, taglines, action buttons, and detailed descriptions for promotion.
+나는 도넛을 파는 웹 사이트를 만들었어. 히어로 타이틀, 태그라인, 액션 버튼, 홍보를 위한 상세 설명 등 웹 사이트의 첫 화면에 있을만한 문구들을 작성해줘. 영어로 답변해줘.
 ```
-## 웹 디자인을 위한 프롬프트 가이드
+## ChatGPT를 활용해 자연스러운 번역하기
 ```
-beautiful website for vape store, person vaping, ui, ux, ui/ux website peach, black, white --v 4
+나는 도넛을 파는 웹 사이트를 만들었어. 히어로 타이틀, 태그라인, 액션 버튼, 홍보를 위한 상세 설명 등 웹 사이트의 첫 화면에 있을만한 문구들을 작성해줘. 영어로 답변해줘.
 ```
+## ChatGPT로 홍보 문구 만들기
 ```
-website with bitcoin, Bitcoin, tree with prohibited apples in the form of Bitcoin, in the background a cyber city world, ultra detailed, volumetric lighting, full body shot, sharp focus, artstation, 8k, octane render, unreal engine, very detailed, concept art, masterpiece, sharp, rule of thirds, ui, ux, ui/ux
+옵션 1:
+영웅 제목: 맛있는 도넛으로 단것을 만족시키세요.
+태그라인: 갓 만든, 언제나 맛있는 도넛
+액션 버튼: 지금 주문하기
+
+설명:
+온라인 도넛 가게에 오신 것을 환영합니다!
+저희는 가장 신선하고 맛있는 도넛을 제공하기 위해 최선을 다하고 있습니다.
+전문 제빵사가 최고급 재료와 오랜 시간 검증된 기술만을 사용하여, 단맛을 만족시키는 군침 도는 간식을 만듭니다.
+
+클래식한 글레이즈드 도넛부터 메이플 베이컨, 스모어와 같은 창의적인 맛까지, 모두를 위한 도넛이 준비되어 있습니다.
+그럼 뭘 망설이고 계십니까? 지금 주문하고 최고의 도넛을 맛보세요!
 ```
+
+

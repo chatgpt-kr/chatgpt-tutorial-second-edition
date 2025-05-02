@@ -1,221 +1,46 @@
 # 6. 사진을 이용해 글을 써주는 글 작가 ChatGPT
 
+## ChatGPT에게 사진을 업로드 하고 분석 요청하기
 ```
-너한테 사진을 주면 사진에 대한 글을 쓸 수 있니?
-```
-```
-그럼 너한테 사진을 입력하는 방법은?
-```
-## Imagga를 활용한 사진 키워드 추출
-Imagga 사이트 주소
-```
-https://imagga.com/
+이 사진을 분석해줘. 그리고 사진에서 추출할 수 있는 키워드나 분위기를 알려줘.
+(사진 업로드)
 ```
 ## 사진의 키워드를 활용해 시를 쓰는 ChatGPT
-### 사진에서 추출한 키워드를 활용해 시 작성하기
 ```
-I will provide keywords with probability.
-
-Please use all these keywords to write 10 lines of poetry.
-
-sunset 65.68%
-silhouette 55.53%
-volleyball 51.98%
-beach 47.17%
-sun 45.22%
-sky 43.90%
-sea 36.79%
-summer 31.55%
-people 30.16%
-freedom 25.64%
-evening 25.25%
-water 24.05%
-sand 23.66%
-lifestyle 23.16%
-vacation 22.12%
-outdoor 21.43%
-active 20.70%
-
-```
-### 분위기 변경하여 작성하기
-```
-I will provide probability with keywords.
-
-Reflect on the requirements below and write 10 lines of poem using keywords. 
-
-Requirements: 
-Writing style: Dynamic 
-
-sunset 65.68%
-silhouette 55.53%
-volleyball 51.98%
-beach 47.17%
-sun 45.22%
-sky 43.90%
-sea 36.79%
-summer 31.55%
-people 30.16%
-freedom 25.64%
-evening 25.25%
-water 24.05%
-sand 23.66%
-lifestyle 23.16%
-vacation 22.12%
-outdoor 21.43%
-active 20.70%
-
+이 정보를 모두 활용해서 10줄 정도의 시를 써줘
 ```
 ```
-I will provide probability with keywords.
-
-Reflect on the requirements below and write 10 lines of poem using keywords. 
-
-Requirements:
-Writing Style: Harry Potter-like atmosphere
-
-sunset 65.68%
-silhouette 55.53%
-volleyball 51.98%
-beach 47.17%
-sun 45.22%
-sky 43.90%
-sea 36.79%
-summer 31.55%
-people 30.16%
-freedom 25.64%
-evening 25.25%
-water 24.05%
-sand 23.66%
-lifestyle 23.16%
-vacation 22.12%
-outdoor 21.43%
-active 20.70%
-
+좀 더 역동적이고 에너지 넘치는 느낌으로 시를 다시 써줘.
 ```
-### 타깃 독자를 지정해서 작성하기
 ```
-I will provide probability with keywords.
-
-Reflect on the requirements below and write 10 lines of poem using keywords. 
-
-Requirements:
-Target: children
-
-sunset 65.68%
-silhouette 55.53%
-volleyball 51.98%
-beach 47.17%
-sun 45.22%
-sky 43.90%
-sea 36.79%
-summer 31.55%
-people 30.16%
-freedom 25.64%
-evening 25.25%
-water 24.05%
-sand 23.66%
-lifestyle 23.16%
-vacation 22.12%
-outdoor 21.43%
-active 20.70%
-
+해리포터 작품과 같은 분위기로 시를 다시 작성해줘.
 ```
-## 소설을 쓰는 ChatGPT
-### 사진에서 추출한 키워드를 활용해 소설 쓰기
 ```
-I'll give you keywords with probabilities.
-
- I want you to create a novel using all of these keywords.
- Please submit your novel in the format below 
-1. Title: 
-2. genre. 
-3. time period setting:
-4. characters:
-5. Plot:
-
-keyword:
-sunset 65.68%
-silhouette 55.53%
-volleyball 51.98%
-beach 47.17%
-sun 45.22%
-sky 43.90%
-sea 36.79%
-summer 31.55%
-people 30.16%
-freedom 25.64%
-evening 25.25%
-water 24.05%
-sand 23.66%
-lifestyle 23.16%
-vacation 22.12%
-outdoor 21.43%
-active 20.70%
-
+어린이를 타깃으로 다시 작성해줘.
 ```
 
-### 장르 변경하여 작성하기
+## 사진의 키워드를 활용해 소설을 쓰는 ChatGPT
 ```
-I'll give you keywords with probabilities.
-
- I want you to create a novel using all of these keywords and genre is horror.
- Please submit your novel in the format below 
-
-1. Title: 
-2. genre. 
-3. time period setting:
-4. characters:
-5. Plot:
-
-keyword:
-sunset 65.68%
-silhouette 55.53%
-volleyball 51.98%
-beach 47.17%
-sun 45.22%
-sky 43.90%
-sea 36.79%
-summer 31.55%
-people 30.16%
-freedom 25.64%
-evening 25.25%
-water 24.05%
-sand 23.66%
-lifestyle 23.16%
-vacation 22.12%
-outdoor 21.43%
-active 20.70%
-
+앞서 추출한 사진 정보를 모두 활용해 짧은 소설을 써줘. 아래 형식으로 부탁해.
+1. 제목
+2. 장르
+3. 시대적 배경
+4. 주요 등장인물
+5. 간략한 줄거리
 ```
-
-### 시대적 배경을 변경하여 작성하기
 ```
-I'll give you keywords with probabilities.
-
- I want you to create a novel using all of these keywords and time period setting is 1960s.
- Please submit your novel in the format below 
-1. Title: 
-2. genre:
-3. characters:
-4. Plot:
-
-keyword:
-sunset 65.68%
-silhouette 55.53%
-volleyball 51.98%
-beach 47.17%
-sun 45.22%
-sky 43.90%
-sea 36.79%
-summer 31.55%
-people 30.16%
-freedom 25.64%
-evening 25.25%
-water 24.05%
-sand 23.66%
-lifestyle 23.16%
-vacation 22.12%
-outdoor 21.43%
-active 20.70%
-
+앞서 추출한 사진 정보를 모두 활용해 호러 장르의 짧은 소설을 써줘. 아래 형식으로 부
+탁해.
+1. 제목
+2. 시대적 배경
+3. 주요 등장인물
+4. 간략한 줄거리
+```
+```
+앞서 추출한 사진 정보를 모두 활용해 시대적 배경을 1980년대로 설정한 짧은 소설을
+써줘. 아래 형식으로 부탁해.
+1. 제목
+2. 장르
+3. 주요 등장인물
+4. 간략한 줄거리
 ```
