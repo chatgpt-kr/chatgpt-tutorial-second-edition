@@ -1,4 +1,10 @@
-**4장 구글 스프레드 시트 링크**: https://buly.kr/ESxk82p
+# 예제 파일 내려 받기
+- **4장 구글 스프레드 시트 링크**: [https://buly.kr/ESxk82p](https://buly.kr/ESxk82p)
+- **9장 예제 파일 내려받기**: [sample.xlsx](https://github.com/chatgpt-kr/chatgpt-tutorial-second-edition/raw/refs/heads/main/09.SPEED_UP_EXCEL_WORK/sample.xlsx)
+- **10장 예제 파일 내려받기**: [PPT_Example.pptx](https://github.com/chatgpt-kr/chatgpt-tutorial-second-edition/raw/refs/heads/main/10.PRESENTATION_WITH_CHATGPT/PPT_Example.pptx)
+- **11장 예제 파일 내려받기**: [대한민국지도.zip](https://github.com/chatgpt-kr/chatgpt-tutorial-second-edition/raw/refs/heads/main/11.ADVANCED_DATA_ANALYSIS/대한민국지도.zip)
+  
+  
 # 챗GPT 업데이트 내용 정리
 [2024.06.11- 1차 개정판]
 * Part 2 P.35~P.43 에서 소개하는 챗GPT 플러스 회원에게 지원하는 기능들이 무료 회원에게도 서비스를 시작하였습니다.
@@ -6,6 +12,8 @@
   
 [2025.04.17 - 2차 개정판]
 * 잿GPT의 대대적인 변경 사항을 반영하여 2차 개정판을 출간하였습니다.
+  
+  
 # ChatGPT Tutorial
 `진짜 챗GPT 활용법 개정판` 교재의 깃허브입니다.  
 엑셀 활용법부터 블로그 자동화, 유튜브 콘텐츠 생성, 미드저니와 ChatGPT API 사용법까지  
